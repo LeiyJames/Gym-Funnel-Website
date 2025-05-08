@@ -1,30 +1,31 @@
-# Gym funnel website
+# Gym Funnel Website
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://v0-gym-funnel-website.vercel.app/)
+![Vercel](https://vercelbadge.vercel.app/api/stevetoday/gym-funnel-website)
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/leiyjames-projects/v0-gym-funnel-website)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/w2PThQ8vfRu)
+A modern conversion-focused website for gym/fitness businesses, built using Vercel's v0 generative UI system.
 
-## Overview
+## Features
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+- � Responsive & mobile-first design
+- 💪 Conversion-optimized landing pages
+- 🎯 Interactive workout planners
+- 📈 Lead capture forms
+- ⚡ Blazing fast performance (Vercel-optimized)
+- 🎨 Modern UI with smooth animations
+- 🔍 SEO-optimized structure
 
-## Deployment
+## Technologies Used
 
-Your project is live at:
+- [Next.js](https://nextjs.org/) (App Router)
+- [React](https://react.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Vercel](https://vercel.com/) Hosting
+- [v0](https://v0.dev/) AI-generated components
+- [Framer Motion](https://www.framer.com/motion/) (for animations)
 
-**[https://vercel.com/leiyjames-projects/v0-gym-funnel-website](https://vercel.com/leiyjames-projects/v0-gym-funnel-website)**
+## Installation
 
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.dev/chat/projects/w2PThQ8vfRu](https://v0.dev/chat/projects/w2PThQ8vfRu)**
-
-## How It Works
-
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+1. Clone the repository:
+```bash
+git clone https://github.com/your-username/gym-funnel-website.git
