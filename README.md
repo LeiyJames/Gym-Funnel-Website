@@ -28,4 +28,4 @@ A modern conversion-focused website for gym/fitness businesses, built using Verc
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/gym-funnel-website.git
+git clone https://github.com/LeiyJames/gym-funnel-website.git
